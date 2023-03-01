@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  gabrielchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-01T13:16:07.1633169-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 5118b387ea3bbb47d4beff508365a325669264ed8f5f98b63825f24943f3c4d3
+    name: gabrielchart
+    type: application
+    urls:
+    - charts/gabrielchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-03-01T13:16:07.157562-05:00"
